@@ -43,7 +43,20 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<table>
+<tr>
+  <th>Название</th>
+  <th>Форма обучения</th>
+  <th>Статус</th>
+  <th>Сертификат</th>
+</tr> 
+<tr>
+  <td><a href = "https://github.com/aavolkov17/YandexPracticum">Яндекс Практикум. Специалист по Data Science</a></td>
+  <td>Онлайн</td>
+  <td>Завершен</td>
+  <td><a href = "https://github.com/aavolkov17/aavolkov17/blob/main/DS_сертификат.pdf">RUS/</a><a href = "https://github.com/aavolkov17/aavolkov17/blob/main/DS_certificate.pdf">ENG</a></td>
+</tr>
+</table>
 
 ###
 
