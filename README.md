@@ -43,6 +43,10 @@
   <img src="https://github.com/ILya2406/ILya2406/assets/150420452/a3778e47-4e80-48a4-bfca-eca37cb4f0fa" height="40" alt="pandas logo" >
   <img width="12" />
   <img src="https://github.com/ILya2406/ILya2406/assets/150420452/6b282038-7660-419a-ac39-0f93eae0b75e" height="40" alt="pandas logo" >
+  <img width="12" />
+  <img src="https://github.com/ILya2406/ILya2406/assets/150420452/2f6494d8-d2bc-4e08-8acd-3939bd58ec21" height="40" alt="pandas logo" >
+ 
+
 </div>
 
 ###
