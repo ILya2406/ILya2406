@@ -39,8 +39,10 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://github.com/ILya2406/ILya2406/assets/150420452/a3778e47-4e80-48a4-bfca-eca37cb4f0fa" height="40" alt="pandas logo" >
-
+  <img width="12" />
+  <img src="https://github.com/ILya2406/ILya2406/assets/150420452/6b282038-7660-419a-ac39-0f93eae0b75e" height="40" alt="pandas logo" >
 </div>
 
 ###
