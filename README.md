@@ -24,12 +24,6 @@
 
 ###
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-
 <h3 align="left">🛠 Навыки:</h3>
 
 ###
@@ -59,24 +53,11 @@
   <th>Сертификат</th>
 </tr> 
 <tr>
-  <td><a href = "https://github.com/aavolkov17/YandexPracticum">Яндекс Практикум. Специалист по Data Science</a></td>
+  <td><a href = "">Яндекс Практикум. Аналитик данных </a></td>
   <td>Онлайн</td>
-  <td>Завершен</td>
-  <td><a href = "https://github.com/aavolkov17/aavolkov17/blob/main/DS_сертификат.pdf">RUS/</a><a href = "https://github.com/aavolkov17/aavolkov17/blob/main/DS_certificate.pdf">ENG</a></td>
+  <td>Идет обучение</td>
+  <td><a href = "">RUS/</a><a href = "">ENG</a></td>
 </tr>
 </table>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
