@@ -53,7 +53,7 @@
   <th>Сертификат</th>
 </tr> 
 <tr>
-  <td><a href = "">Яндекс Практикум. Аналитик данных </a></td>
+  <td><a href = "https://github.com/ILya2406/Yandex.Practicum.git">Яндекс Практикум. Аналитик данных </a></td>
   <td>Онлайн</td>
   <td>Идет обучение</td>
   <td><a href = "">RUS/</a><a href = "">ENG</a></td>
